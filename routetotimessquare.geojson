@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "routetotimessquare",
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.981965215429611, 40.767904089511397 ], [ -73.986498287739636, 40.761570431198081 ], [ -73.980903868226989, 40.759185810403096 ], [ -73.981580792912368, 40.758153851932313 ] ] ] } }
+]
+}
